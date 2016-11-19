@@ -4,7 +4,7 @@
 
 An HTML5 highlighter.
 
-A [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) file which highlights the [HTML5 semantic elements](http://www.w3schools.com/html/html5_semantic_elements.asp) in your web page. [See it in action](https://jsfiddle.net/adamralph/x5kjy8ag/3/).
+A [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) file which highlights the [HTML5 semantic elements](http://www.w3schools.com/html/html5_semantic_elements.asp) in your web page. [See it in action](https://jsfiddle.net/adamralph/x5kjy8ag/4/).
 
 <img src="img/hello-world.png" width="695" />
 
