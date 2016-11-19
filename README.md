@@ -10,16 +10,16 @@ A [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) file which highlig
 
 ## How to use
 
-Simply link to the CSS file in your HTML `<HEAD>` element as you would any other. For best results, link to h5h after all other stylesheet links or inline styling.
+Add the CSS file to your website and link to it in your HTML `<HEAD>` element as you would any other. For best results, link to h5h after all other stylesheet links or inline styling.
 
 - [h5h-n.css](https://raw.githubusercontent.com/adamralph/h5h/master/h5h-n.css) - normalising version (recommended)
   ```html
-  <link rel="stylesheet" href="https://github.com/adamralph/h5h/blob/master/h5h-n.css" />
+  <link rel="stylesheet" href="css/h5h-n.css" />
   ```
 
 - [h5h.css](https://raw.githubusercontent.com/adamralph/h5h/master/h5h.css) - bare-bones version
   ```html
-  <link rel="stylesheet" href="https://github.com/adamralph/h5h/blob/master/h5h.css" />
+  <link rel="stylesheet" href="css/master/h5h.css" />
   ```
 
 For convenience, the normalising version of h5h includes Nicolas Gallagher's excellent [Normalize.css](https://necolas.github.io/normalize.css/) which normalises all previously applied styles to give you a simple, un-styled view of your HTML5 semantic elements. If you prefer to manage previously applied styling yourself, use the bare-bones version.
