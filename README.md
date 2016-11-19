@@ -1,3 +1,5 @@
+<img src="img/h5h.png" width="150" />
+
 # h5h
 
 An HTML5 highlighter.
@@ -53,3 +55,7 @@ Appropriate support for the remaining elements will be added in future versions.
 In addition, h5h highlights the `<h1>` to `<h6>` elements as an aid to judging how your page stands up to [the theory vs. the reality of HTML5 outlining](http://html5doctor.com/computer-says-no-to-html5-document-outline/).
 
 h5h also restricts the size of `<p>` and `<img>` elements to prevent them over-interfering with the semantic view.
+
+---
+
+<sub>[Target](https://thenounproject.com/term/target/127693) by [ Creative Stall](https://thenounproject.com/creativestall/) from [the Noun Project](https://thenounproject.com/).</sub>
