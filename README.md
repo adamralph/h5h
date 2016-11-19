@@ -26,6 +26,8 @@ For convenience, the normalising version of h5h includes Nicolas Gallagher's exc
 
 A good way to use h5h is to keep a link to it in your HTML at all times, but commented out. Un-comment the link when you want to check your HTML5 semantics.
 
+## Try it on a live web page!
+
 It's also possible to apply h5h to existing web pages in your browser. E.g. using Chris Pederick's excellent [Web Developer extension](http://chrispederick.com/work/web-developer/), choose the "Edit CSS" option and replace the styling with [normalising version of h5h](https://github.com/adamralph/h5h/blob/master/h5h-n.css). Here's what that looks like when applied to the [HTML5 Doctor home page](http://html5doctor.com/).
 
 <img src="img/html5doctor.png" width="811" />
