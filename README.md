@@ -28,7 +28,7 @@ A good way to use h5h is to keep a link to it in your HTML at all times, but com
 
 ## Try it on a live web page!
 
-It's also possible to apply h5h to live web pages, using your browser. E.g. using Chris Pederick's excellent [Web Developer extension](http://chrispederick.com/work/web-developer/), choose the "Edit CSS" option and replace the styling with [normalising version of h5h](https://github.com/adamralph/h5h/blob/master/h5h-n.css). Here's what that looks like when applied to the [HTML5 Doctor home page](http://html5doctor.com/).
+It's also possible to apply h5h to a live web page, using your browser and one of the many extensions that allow tampering with CSS. For example, using Chris Pederick's excellent [Web Developer extension](http://chrispederick.com/work/web-developer/), under "CSS", click "Disable All Styles" and then "Edit CSS" and replace the styling with [the normalising version of h5h](https://github.com/adamralph/h5h/blob/master/h5h-n.css). Here's what that looks like when applied to the [HTML5 Doctor home page](http://html5doctor.com/).
 
 <img src="img/html5doctor.png" width="811" />
 
