@@ -50,7 +50,7 @@ It's also possible to apply h5h to live web pages, using your browser. E.g. usin
 | `<summary>`    | no           |
 | `<time>`       | no           |
 
-Appropriate support for the remaining elements will be added in future versions. (Hint: pull requests are welcome :wink:).
+Appropriate support for the remaining elements will be added in future versions. (Hint: pull requests are welcome.) :wink:
 
 In addition, h5h highlights the `<h1>` to `<h6>` elements as an aid to judging how your page stands up to [the theory vs. the reality of HTML5 outlining](http://html5doctor.com/computer-says-no-to-html5-document-outline/).
 
