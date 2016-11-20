@@ -58,4 +58,4 @@ h5h also restricts the size of `<p>` and `<img>` elements to prevent them over-i
 
 ---
 
-<sub>[Target](https://thenounproject.com/term/target/127693) by [ Creative Stall](https://thenounproject.com/creativestall/) from [the Noun Project](https://thenounproject.com/).</sub>
+<sub>[Highlighter](https://thenounproject.com/term/target/127693) by [ Creative Stall](https://thenounproject.com/creativestall/) from [the Noun Project](https://thenounproject.com/).</sub>
